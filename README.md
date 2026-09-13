@@ -1,5 +1,7 @@
 # UNSW-NB15 Network-Traffic Clustering
 
+**[Open the live Streamlit app](https://karim797-unsw-clustering.streamlit.app/)**
+
 Unsupervised clustering of network-flow behaviour using preprocessing, PCA, K-Means, DBSCAN, Agglomerative Clustering, internal validation metrics, cluster profiling, and an external label check.
 
 The attack labels are used only after clustering for interpretation; they are not model inputs.
