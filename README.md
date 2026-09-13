@@ -4,7 +4,9 @@
 
 Unsupervised analysis of network-flow behaviour using preprocessing, PCA, K-Means, DBSCAN, Agglomerative Clustering, internal validation, cluster profiling, and external label interpretation.
 
-![UNSW-NB15 clustering Streamlit application](assets/app-screenshot.jpg)
+![UNSW-NB15 clustering Streamlit demo](assets/app-demo.gif)
+
+[Download the HD MP4 demo](assets/app-demo.mp4)
 
 ## Methodology
 
@@ -20,7 +22,8 @@ Python, Pandas, NumPy, scikit-learn, PCA, K-Means, DBSCAN, Agglomerative Cluster
 .
 ├── app.py
 ├── clustering_project.ipynb
-├── assets/app-screenshot.jpg
+├── assets/app-demo.gif
+├── assets/app-demo.mp4
 ├── requirements.txt
 ├── LICENSE
 └── README.md
